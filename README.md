@@ -1,6 +1,6 @@
-# Hi, I'm Gadang Aji Ramadhan 👋
+# Hi, I'm Gadang Aji Ramadhan
 
-I'm a D3 Information Technology student at Brawijaya University with interests in web development, UI/UX design, backend systems, and digital automation. I enjoy building practical, user-centered digital solutions through academic, internship, and personal projects.
+I'm an Information Technology student at Brawijaya University interested in **web development, UI/UX design, backend systems, and digital automation**. I enjoy turning ideas into practical, user-centered digital solutions through academic, internship, and personal projects.
 
 ## About Me
 - 🎓 D3 Information Technology student at Brawijaya University
@@ -48,7 +48,7 @@ An automation and monitoring solution for tracking work-order information and up
 
 **Focus:** Automation · Monitoring · API Integration  
 
-### 🐟 Smart Aquaculture Monitoring
+### 🐟 Smart Aquaculture Monitoring & Automatic Water System
 An IoT-based monitoring and automatic water-management system integrating sensors, ESP32, API communication, database management, and a web-based monitoring interface.
 
 **Tech:** ESP32 · REST API · Laravel · MySQL
