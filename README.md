@@ -31,4 +31,4 @@ Git · GitHub · Visual Studio Code · XAMPP
 ## Contact
 
 - LinkedIn: [Gadang Aji Ramadhan](https://www.linkedin.com/in/gadangajiramadhan)
-- Instagram: [@raamaajii__](https://www.instagram.com/raamaajii__)
+- Instagram: [@raamaajii__](https://www.instagram.com/raamajii__)
